@@ -53,9 +53,3 @@ The main objective is to understand how different factors affect medical insuran
 - Evaluating regression model performance.
 - Applying machine learning to a real-world dataset.
 
-## Author
-**Sandesh Kondikire**
-
-B.Tech – Artificial Intelligence and Data Science
-
-[LinkedIn](https://linkedin.com/in/sandesh-kondikire) | [GitHub](https://github.com/Sandy7999)
